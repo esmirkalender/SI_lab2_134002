@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SILab2Test" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-05-31T15:40:00" hostname="DESKTOP-VDK05KI" time="0.061">
+  <properties/>
+  <testcase name="ShouldThrowExceptionIfSecondsAreNotValid()" classname="SILab2Test" time="0.041"/>
+  <testcase name="shouldThrowExceptionIfHoursAreGreaterThanOneDayMax()" classname="SILab2Test" time="0.002"/>
+  <testcase name="shouldSetTheValuesProperlyIfInputDataIsValid()" classname="SILab2Test" time="0.002"/>
+  <testcase name="shouldThrowExceptionIfDataExceedsOneFullDay()" classname="SILab2Test" time="0.001"/>
+  <testcase name="shouldThrowExceptionIfMinutesAreInvalid()" classname="SILab2Test" time="0.001"/>
+  <testcase name="oneFullDayWithoutAnyExtraMinuteOrSecondsShouldBeValid()" classname="SILab2Test" time="0.002"/>
+  <testcase name="shouldThrowExceptionIfHoursSmallerThanMinimum()" classname="SILab2Test" time="0.001"/>
+  <testcase name="IfNoTimeSetItShouldBeEqualToZero()" classname="SILab2Test" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
